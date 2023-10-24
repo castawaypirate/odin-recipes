@@ -1,3 +1,3 @@
 # Odin Recipes
 
-A basic webpage created using fundamental HTML.
+A simple webpage with recipes for four easy-to-make dishes using fundamental HTML.
